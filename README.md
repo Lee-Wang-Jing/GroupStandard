@@ -1,6 +1,6 @@
 # GroupStandard
 # 技术交流群行为约定
-本群规范参考了[https://github.com/liaohuqiu/qq-tribe-rule][1]  
+本群规范参考了[https://github.com/liaohuqiu/qq-tribe-rule]
 交流群1 598627802 
 由于群成员名额有限，群内不定期清理三个月内没有发言的同学！  
 
